@@ -1,0 +1,22 @@
+[project]
+name = "pydantic-ai-agent"
+version = "0.1.0"
+description = "Generic Pydantic AI agent template with FastAPI"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.34",
+    "pydantic-ai>=0.1",
+    "python-dotenv>=1.1",
+    "httpx>=0.28",
+    "sqlalchemy[asyncio]>=2.0",
+    "alembic>=1.14",
+    "aiosqlite>=0.20",
+]
+
+[project.optional-dependencies]
+dev = [
+    "ruff>=0.9",
+    "pytest>=8.0",
+    "pytest-asyncio>=0.25",
+]
